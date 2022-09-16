@@ -139,7 +139,7 @@ numba @ file:///tmp/build/80754af9/numba_1616774046117/work
 numexpr @ file:///tmp/build/80754af9/numexpr_1618856167419/work
 numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1626271506491/work
 numpydoc @ file:///home/conda/feedstock_root/build_artifacts/numpydoc_1601580905698/work
-oauthlib==3.1.1
+oauthlib==3.2.1
 olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
 openpyxl @ file:///tmp/build/80754af9/openpyxl_1615411699337/work
 opt-einsum==3.3.0
